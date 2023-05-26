@@ -16,5 +16,6 @@ Proporcionar información estratégica para campañas de marketing: Los resultad
 Crear un dashboard interactivo: Como objetivo adicional, el proyecto busca desarrollar un dashboard interactivo que permita visualizar los datos de manera clara y comprensible. Esto facilitará la exploración de los resultados, el análisis en profundidad y la presentación de información clave de manera efectiva para apoyar la toma de decisiones informadas.
 
 ##Contacto
-email:joselui_b@hotmail.com
-linkedin.com/in/jos%C3%A9-luis-bola%C3%B1os-012aa1250/
+email: joselui_b@hotmail.com
+
+www.linkedin.com/in/joseluisbolanosh
