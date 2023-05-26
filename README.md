@@ -14,3 +14,7 @@ Evaluar la influencia de los jugadores embajadores: Otra meta importante es eval
 Proporcionar información estratégica para campañas de marketing: Los resultados obtenidos en el proyecto servirán como base para la toma de decisiones estratégicas en campañas de marketing. Se espera que los datos y análisis generados ayuden a desarrollar estrategias publicitarias efectivas, dirigidas específicamente a los modelos y marcas de botas más populares entre los jugadores de fútbol.
 
 Crear un dashboard interactivo: Como objetivo adicional, el proyecto busca desarrollar un dashboard interactivo que permita visualizar los datos de manera clara y comprensible. Esto facilitará la exploración de los resultados, el análisis en profundidad y la presentación de información clave de manera efectiva para apoyar la toma de decisiones informadas.
+
+##Contacto
+email:joselui_b@hotmail.com
+linkedin.com/in/jos%C3%A9-luis-bola%C3%B1os-012aa1250/
